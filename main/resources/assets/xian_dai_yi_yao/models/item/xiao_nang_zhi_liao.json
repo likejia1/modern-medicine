@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "xian_dai_yi_yao:item/yao"
+  }
+}

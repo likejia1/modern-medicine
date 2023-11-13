@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "xian_dai_yi_yao:kong_xiao_nang"
+    },
+    "1": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "2": {
+      "item": "xian_dai_yi_yao:kong_xiao_nang"
+    }
+  },
+  "result": {
+    "item": "xian_dai_yi_yao:jin_pi_gu_xiao_nang",
+    "count": 1
+  }
+}

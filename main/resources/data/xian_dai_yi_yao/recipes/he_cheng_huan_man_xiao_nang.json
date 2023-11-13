@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "xian_dai_yi_yao:su_du_xiao_nang"
+    },
+    "1": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "2": {
+      "item": "xian_dai_yi_yao:su_du_xiao_nang"
+    }
+  },
+  "result": {
+    "item": "xian_dai_yi_yao:huan_man_xiao_nang",
+    "count": 2
+  }
+}

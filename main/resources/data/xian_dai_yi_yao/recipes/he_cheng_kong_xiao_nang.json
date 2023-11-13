@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "3 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:slime_ball"
+    },
+    "3": {
+      "item": "minecraft:slime_ball"
+    },
+    "5": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "xian_dai_yi_yao:kong_xiao_nang",
+    "count": 3
+  }
+}
